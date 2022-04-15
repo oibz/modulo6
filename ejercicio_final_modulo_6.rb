@@ -9,7 +9,7 @@ for i in x do
   file.write(texto_convertido)
 end
 
-cadena = "Nombre: Oscar Ibáñez Tagle\nMódulo: Introducción a la Programación con Ruby\nAño: 2022"
+cadena = "----------\nNombre: Oscar Ibáñez Tagle\nMódulo: Introducción a la Programación con Ruby\nAño: 2022"
 
 puts cadena
 file.write(cadena)
